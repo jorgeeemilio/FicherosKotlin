@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Editor de Ficheros</string>
+    <string name="hint_nombre_fichero">Nombre del fichero</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="hint_contenido">Escribe aquí el contenido del fichero...</string>
+    <string name="btn_borrar">Borrar contenido</string>
+    <string name="msg_ingresa_nombre">Por favor, introduce un nombre de fichero</string>
+    <string name="msg_guardado_ok">Fichero guardado correctamente</string>
+    <string name="msg_error_guardar">Error al guardar el fichero: %s</string>
+    <string name="msg_fichero_no_existe">El fichero no existe</string>
+    <string name="msg_error_abrir">Error al abrir el fichero: %s</string>
+    <string name="dialog_titulo_confirmar">Confirmar sustitución</string>
+    <string name="dialog_mensaje_sustituir">El cuadro de texto no está vacío. ¿Deseas sustituir el contenido actual por el del fichero?</string>
+    <string name="dialog_btn_sustituir">Sustituir</string>
+    <string name="dialog_btn_cancelar">Cancelar</string>
+    <string name="dialog_titulo_borrar">Confirmar borrado</string>
+    <string name="dialog_mensaje_borrar">¿Estás seguro de que deseas borrar todo el contenido?</string>
+    <string name="dialog_btn_borrar">Borrar</string>
+    <string name="msg_ya_vacio">El cuadro de texto ya está vacío</string>
+    <string name="msg_borrado_ok">Contenido borrado</string>
+</resources>
